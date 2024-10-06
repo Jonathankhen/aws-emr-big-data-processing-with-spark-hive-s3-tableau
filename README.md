@@ -30,6 +30,16 @@ This project showcases a robust ETL pipeline built to handle large-scale sales d
 
 This diagram outlines the data flow, from extraction in S3 to final visualization in Tableau, detailing the entire processing journey.
 
+## Final Dashboard:
+![image](https://github.com/user-attachments/assets/5bd6e3ee-3d89-40b9-8619-cd75dd0666b6)
+
+### Dashboard visualizations: 
+![image](https://github.com/user-attachments/assets/ba3aa143-c82f-4111-a704-b302a01fbf4b)
+![image](https://github.com/user-attachments/assets/6453ebf0-cdcf-4e49-86cb-3eb4059bb1e5)
+![image](https://github.com/user-attachments/assets/0548b219-97e2-45f7-831c-5ab753cfc173)
+![image](https://github.com/user-attachments/assets/c8b22838-df03-4485-921b-3f2ea9c12038)
+![image](https://github.com/user-attachments/assets/8a2ef17d-adc9-4cfb-aeb9-baccbf45b0fb)
+
 ## Summary
 
 This project demonstrates how to use AWS and Apache technologies together to build a seamless, cost-efficient ETL pipeline. With Spark for large-scale data transformation and Hive for efficient querying, coupled with Tableau for powerful visualizations, this project provides a scalable solution for handling big data in the cloud.
@@ -89,4 +99,5 @@ This project demonstrates how to use AWS and Apache technologies together to bui
 #### Starting the visualization work: 
 ![image](https://github.com/user-attachments/assets/2be1202d-049a-433a-b366-89f57d9c2e8b)
 
-
+## Tableau Dashboard:
+![image](https://github.com/user-attachments/assets/5bd6e3ee-3d89-40b9-8619-cd75dd0666b6)
