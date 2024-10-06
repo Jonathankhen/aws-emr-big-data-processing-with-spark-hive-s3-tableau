@@ -33,3 +33,20 @@ This diagram outlines the data flow, from extraction in S3 to final visualizatio
 ## Summary
 
 This project demonstrates how to use AWS and Apache technologies together to build a seamless, cost-efficient ETL pipeline. With Spark for large-scale data transformation and Hive for efficient querying, coupled with Tableau for powerful visualizations, this project provides a scalable solution for handling big data in the cloud.
+
+## Process:
+
+Creating EMR Hadoop Framework on AWS:
+![image](https://github.com/user-attachments/assets/4c0493ba-10ae-459a-8e88-416776b6d5a5)
+![image](https://github.com/user-attachments/assets/6c1346a2-a525-42a8-80ea-c52362f83e41)
+
+Setting up cluster:
+![image](https://github.com/user-attachments/assets/ac6d704e-8441-429d-936b-3db0d0e7fac8)
+![image](https://github.com/user-attachments/assets/6bdee0b0-6e6b-48d9-b95c-7892097a14de)
+
+Creating inbound security group rules:
+![image](https://github.com/user-attachments/assets/fef1791d-f32b-4fb6-8f20-f82688a6066c)
+
+Signing into the EMR cluster for executing hive commands: 
+![image](https://github.com/user-attachments/assets/43a1cd32-45c9-422f-b2da-1b61459eb154)
+
