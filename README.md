@@ -72,4 +72,21 @@ This project demonstrates how to use AWS and Apache technologies together to bui
 #### Final transformations: 
 ![image](https://github.com/user-attachments/assets/b964ea55-68dc-41ae-950c-57463d7c61b5)
 
+#### Creating yarn clusters of the data:
+![image](https://github.com/user-attachments/assets/1a1c2b5b-571d-420a-b38a-c0d7f9a50e1c)
+
+#### Snippet of the data:
+![image](https://github.com/user-attachments/assets/a5061b2b-51f1-4bd8-adbb-054a7a47713d)
+
+#### Connecting data to Tableau through their EMR Connector:
+![image](https://github.com/user-attachments/assets/55395b90-ffec-4f84-a0e6-b2d3a3e28509)
+![image](https://github.com/user-attachments/assets/4e498b3a-65c2-4759-ab40-324fca972a27)
+![image](https://github.com/user-attachments/assets/61b0c940-6185-4033-9675-782007afb4b6)
+
+#### Data table set up:
+![image](https://github.com/user-attachments/assets/8a16d348-ca0c-4460-8d52-ba5077ff3847)
+
+#### Starting the visualization work: 
+![image](https://github.com/user-attachments/assets/2be1202d-049a-433a-b366-89f57d9c2e8b)
+
 
