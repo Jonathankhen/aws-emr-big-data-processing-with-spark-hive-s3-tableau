@@ -34,11 +34,11 @@ This diagram outlines the data flow, from extraction in S3 to final visualizatio
 ![image](https://github.com/user-attachments/assets/5bd6e3ee-3d89-40b9-8619-cd75dd0666b6)
 
 ### Dashboard visualizations: 
-![image](https://github.com/user-attachments/assets/ba3aa143-c82f-4111-a704-b302a01fbf4b)
-![image](https://github.com/user-attachments/assets/6453ebf0-cdcf-4e49-86cb-3eb4059bb1e5)
-![image](https://github.com/user-attachments/assets/0548b219-97e2-45f7-831c-5ab753cfc173)
-![image](https://github.com/user-attachments/assets/c8b22838-df03-4485-921b-3f2ea9c12038)
-![image](https://github.com/user-attachments/assets/8a2ef17d-adc9-4cfb-aeb9-baccbf45b0fb)
+![image](https://github.com/user-attachments/assets/a2e7c478-0206-4e8a-af87-5ff74b5a7928)
+![image](https://github.com/user-attachments/assets/0cd125ff-eea5-4cc5-b305-277377367338)
+![image](https://github.com/user-attachments/assets/b41ef273-b20e-4c90-a31b-d64efc826989)
+![image](https://github.com/user-attachments/assets/fb555fd8-f86c-4454-8842-295f884b3130)
+![image](https://github.com/user-attachments/assets/d014b39d-323c-45b8-8df7-a8896e3ee93d)
 
 ## Summary
 
